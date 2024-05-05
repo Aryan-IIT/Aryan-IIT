@@ -22,8 +22,4 @@ I'm currently pursuing a major in Artificial Intelligence at the Indian Institut
 - [Devfolio](link-to-devfolio)
 - [Portfolio Website](https://aryanoutwits.notion.site/Portfolio-Website-dcea590ec3cd4bdc9a3e3ff49df2c8c0)
 - For inquiries, feel free to reach out via email at [23110049@iitgn.ac.in](mailto:23110049@iitgn.ac.in).
-
-## Interests
-
-I'm passionate about startups and emerging technologies, always eager to explore new opportunities and innovations in the tech world.
-
+- Or alternatively at [illogicalaryan@gmail.com](mailto:illogicalaryan@gmail.com).
