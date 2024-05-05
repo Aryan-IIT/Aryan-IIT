@@ -21,6 +21,7 @@ I'm currently pursuing a major in Artificial Intelligence at the Indian Institut
 - [LinkedIn](https://www.linkedin.com/in/aryan-solanki-ai/)
 - [Devfolio](link-to-devfolio)
 - [Portfolio Website](https://aryanoutwits.notion.site/Portfolio-Website-dcea590ec3cd4bdc9a3e3ff49df2c8c0)
+- For inquiries, feel free to reach out via email at [23110049@iitgn.ac.in](mailto:23110049@iitgn.ac.in).
 
 ## Interests
 
