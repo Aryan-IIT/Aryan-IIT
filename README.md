@@ -1,14 +1,8 @@
 # About me 
 
-I like to code, swim and learn about businesses. Currently my interests mainly revolve around various Machine Learning domains, namely vision and embedded ML. At present, I am researching on fairness on compression techniques. 
+I like to code, swim and learn about businesses. Currently my interests mainly revolve around various Machine Learning domains, namely vision and embedded ML. At present, I am researching on fairness of compression techniques. 
 
 I'm currently pursuing a major with honours in Artificial Intelligence at the Indian Institute of Technology (IIT) Gandhinagar. 
-
-## Highlighted Project
-
-### [Data-Narratives-and-Explorations](https://github.com/Aryan-IIT/Data-Narratives-and-Explorations)
-
-Data narratives offer a structured approach to understanding complex datasets, guiding the exploration process, and communicating insights effectively. In this repository, we delve into various datasets, pose insightful questions, and leverage data analysis techniques to derive meaningful answers. The goal is to create compelling narratives that not only reveal insights but also facilitate understanding and decision-making. Furthermore, the processes used illustrate my fluency in various Python libraries such as Pandas, NumPy, Matplotlib, and more.
 
 ## Programming Languages and Tools
 
