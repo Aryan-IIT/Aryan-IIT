@@ -10,6 +10,6 @@ I primarily work with Python. I use it with fluency for machine learning and dat
 
 ## Socials
 - [LinkedIn](https://www.linkedin.com/in/aryan-solanki-ai/)
-- [Personal Website](https://aryanoutwits.notion.site/Portfolio-Website-dcea590ec3cd4bdc9a3e3ff49df2c8c0)
+- [Portfolio Website](https://minimal-portfolio-ochre.vercel.app/)
 - For inquiries, feel free to reach out via email at [23110049@iitgn.ac.in](mailto:23110049@iitgn.ac.in).
 - Or alternatively at [illogicalaryan@gmail.com](mailto:illogicalaryan@gmail.com).
