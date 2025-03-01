@@ -1,6 +1,6 @@
 # About me 
 
-I like to code, swim and learn about businesses. Currently my interests mainly revolve around various Machine Learning domains, namely vision and embedded ML. At present, I am researching on fairness of compression techniques and beyond. 
+I like to code, swim and learn about businesses. 
 
 I'm currently pursuing a major with honours in Artificial Intelligence at the Indian Institute of Technology (IIT) Gandhinagar. I am also crazy about startups. 
 
