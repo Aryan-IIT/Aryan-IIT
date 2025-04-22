@@ -12,4 +12,4 @@ I primarily work with Python. I use it with fluency for machine learning and dat
 - [LinkedIn](https://www.linkedin.com/in/aryan-solanki-ai/)
 - [Portfolio Website](https://minimal-portfolio-ochre.vercel.app/)
 - For inquiries, feel free to reach out via email at [23110049@iitgn.ac.in](mailto:23110049@iitgn.ac.in).
-- Or alternatively at [illogicalaryan@gmail.com](mailto:illogicalaryan@gmail.com).
+- Or alternatively at [solanki.aryan.ai@gmail.com](mailto:solanki.aryan.ai@gmail.com).
