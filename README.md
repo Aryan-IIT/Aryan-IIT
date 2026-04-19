@@ -6,7 +6,7 @@ I'm currently pursuing a major with honours in Artificial Intelligence at the In
 
 ## Programming Languages and Tools
 
-I primarily work with Python. I use it with fluency for machine learning and data science. I also enjoy studying algorithms in C/C++. Sometimes I use MERN for my projects. 
+I primarily work with Python. I use it with fluency for machine learning and data science. I also enjoy studying algorithms in C/C++. 
 
 ## Socials
 - [LinkedIn](https://www.linkedin.com/in/aryan-solanki-ai/)
